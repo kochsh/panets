@@ -7,4 +7,7 @@ two more lines
 Dear sarah, this is all very interesting
 I agree with you very much, but I'm definitely also getting ready for the weekend!!
 They just won't let us... 2380ß)(%$§$"
-Damn!
+
+I think it's time to teach conflicts and merges.
+
+You are right. I resolved any conflicts.
